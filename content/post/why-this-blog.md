@@ -23,3 +23,4 @@ I'm fortunate enough to have a longer, paid maternity leave from work. And even 
 
 
 ![Hacker baby!](/img/09272018hacker-baby.jpg)
+*Baby hacking with me*
