@@ -8,7 +8,7 @@ tags = ["Getting started"]
 
 ### I never imagined myself as someone who shares parenting advice. 
 
-Growing up, I'm simply not a "mom type". In fact, for most of the time in my life, I did not want children - I am simply too career focused, persuing an intellectual lifestyle; so chasing after a toddler and being bothered with milk supply didn't seem like my thing. 
+Growing up, I'm simply not a "mom type". In fact, for most of the time in my life, I did not want children - I am simply too career focused, persuing an intellectual lifestyle; so chasing after a toddler or being bothered with milk supply didn't seem like my thing. 
 
 So why am I blogging now? Well, after I married a great guy, we started to dream about having a family. We actually struggled quite a bit to get pregnant, and then suffered an ectopic pregnancy. Then diagnosed with "unexplained infertility". We were blessed to get pregnant naturally after that diagnosis. 
 

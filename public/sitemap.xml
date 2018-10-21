@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wendyhackermom.com/post/2018-10-19-how-i-embrace-being-mom/</loc>
+    <lastmod>2018-10-19T23:19:22-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wendyhackermom.com/post/2018-10-11-how-my-work-help-stay-sane/</loc>
     <lastmod>2018-10-11T11:05:37-07:00</lastmod>
   </url>
@@ -57,6 +62,12 @@
   </url>
   
   <url>
+    <loc>https://wendyhackermom.com/tags/motherhood/</loc>
+    <lastmod>2018-10-19T23:19:22-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wendyhackermom.com/page/</loc>
     <lastmod>2018-09-27T23:42:46-07:00</lastmod>
     <priority>0</priority>
@@ -70,7 +81,7 @@
   
   <url>
     <loc>https://wendyhackermom.com/post/</loc>
-    <lastmod>2018-10-11T11:05:37-07:00</lastmod>
+    <lastmod>2018-10-19T23:19:22-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -94,7 +105,7 @@
   
   <url>
     <loc>https://wendyhackermom.com/</loc>
-    <lastmod>2018-10-11T11:05:37-07:00</lastmod>
+    <lastmod>2018-10-19T23:19:22-07:00</lastmod>
     <priority>0</priority>
   </url>
   
