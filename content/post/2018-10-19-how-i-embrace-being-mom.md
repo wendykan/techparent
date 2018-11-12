@@ -63,7 +63,7 @@ Honestly, I wasn't aware I was that strong. It was quite an empowering experienc
 
 I reflect back to the labor experience sometimes now, and it made a lot of my everyday things seem unimportant in comparison. 
 
-Or maybe it's more of a "I've fought that difficult fight, and I've suffered enough, so I'm cool with whatever now. I have nothing to prove anymore"
+Or maybe it's more of a "I've fought that difficult fight, and I've suffered enough, so I'm cool with whatever now. I have nothing to prove anymore."
 
 I'm happy with my looks - first time in my life I'm happy with my looks. Strangely, I'm also finding my weight quite satisfactory. I might have another 1-2 pounds to lose to get back to my pre-pregnancy weight, and normally I would care about that 1, maybe 2 pounds, but now I feel that it's good enough for me. 
 
@@ -85,7 +85,7 @@ Even when I don't have time for some project, I don't get upset either. I feel t
 
 ## Bottom line: Being a mother isn't so bad, as long as we as a family get to define what counts as a good mother
 
-Really, no one can define that for us. When you ask others to define it for you, it's somehow always a competition of who can suffer more for your child. Somehow if you don't exclusively breastfeed (I don't, we supplement with formula), you're not doing enough for your child therefore failing parenthood, or if you don't put your baby in your own room (we don't, since my husband can't sleep at all with the baby's constant noise) you're somehow bad parents. I let that guilt build up and it was hard to not feel like a failure and hate this new role I'm in. 
+Really, no one can define that for us. When you ask others to define it for you, it's somehow always a competition of who can suffer more for your child. Somehow if you don't exclusively breastfeed (I don't, we supplement with formula), you're not doing enough for your child therefore failing parenthood; or, if your baby doesn't sleep in the same room as you (we don't, since my husband can't sleep at all with the baby's constant noise) you're somehow bad parents. I let that guilt build up and it was hard to not feel like a failure and hate this new role I'm in. 
 
 But it really doesn't have to be this way. I learned that I have to be confident that my child is going to grow up as a whole person of his own, and he will have his own perspective. He will be raised by us, therefore (generally) share my values. My child is the only person that can ultimately decide whether I'm a good mother, and those "other people" won't get to decide that. So who cares what other people think? It will ultimitely come down to our own family and what we decide how we want to live, and how we can grow together as a family. As long as we're moving together towards that goal, my role of being the mother will always be good enough. 
 
