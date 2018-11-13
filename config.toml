@@ -9,7 +9,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 disqusShortname = "hackermom"
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-129138312-1"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page

@@ -1,5 +1,5 @@
 ---
-title: "How Breastfeeding vs Formula is just like Tabs vs Spaces"
+title: "Why Breastfeeding vs Formula is just like Tabs vs Spaces"
 date: 2018-11-06T21:46:10-08:00
 subtitle: "That breastfeeding journey..."
 tags: [breastfeeding]
