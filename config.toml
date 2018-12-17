@@ -13,7 +13,7 @@ disqusShortname = "hackermom"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Lazy geeky parents who just want to minimize work and maximize parenting outcome"
+  subtitle = "Non-mainstream opinions as I go through motherhood"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
