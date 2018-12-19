@@ -33,7 +33,7 @@ Now that I'm two months into my maternity leave, I can share a bit about how it 
 - Struggling with breastfeeding. 
 - Struggling with feeding every 2 hours or even every hour, causing sleep deprevation. 
 - Struggling with burping, changing diaper, cleaning up the mess after those. 
-- Even so, REALLY CRAVING for something intellitual. 
+- Even so, REALLY CRAVING for something intellectual. 
 - Really want to be quiet and alone to enjoy some ME time. 
 - Lots of time idling when pumping or breastfeeding, but didn't have free hands, so watching intellectual things on Youtube is a good choice.
 - Used a lot of voice-control devices like Amazon Echo, Google Assistant, and Dictation from phone. 
