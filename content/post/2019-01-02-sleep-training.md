@@ -9,7 +9,7 @@ tags: [parenting, sleep training]
 
 > 1. I'm not a baby whisperer - I'm actually far from it. I'm more of a hacker, as is the title of this blog. So please don't use this article as your sleep training bible!
 
-> 2. I initially started started writing this post in January and never finished it. Thank you Alexa for nudging me for this one!
+> 2. I initially started writing this post in January and never finished it. Thank you Alexa for nudging me for this one!
 
 
 
