@@ -8,7 +8,9 @@ I’ve been giving these advice to my friends who are either expecting or trying
 
 I had this exact same misconception when I was pregnant. The truth is, if you’re bored/tired of your job already, you’ll very likely be even more bored/tired of it when you come back to it after the maternity leave. 
 
-When I came back to my job after 3 months of leave, I felt very welcomed and was quickly given new tasks to work on. Being the more senior member of the team, the team was happy to have me back and start contributing and carrying heavy workload again. At the same time, they were still very considerate when I had to spend much of my time in the mother’s room pumping, or taking calls from the mother’s room, or sometimes work from home. It was quite a transition for a first time mother. 
+When I came back to my job after 3 months of leave, I felt very welcomed and was quickly given new tasks to work on. Being the more senior member of the team, the team was happy to have me back and start contributing and carrying heavy workload again. At the same time, they were still very considerate when I had to spend much of my time in the mother’s room pumping, or taking calls from the mother’s room, or sometimes work from home. It was quite a transition for a first time mother. I really had a great team to support me to “get back to normal”. 
+
+Except that I didn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDIzNjQ5NTUsMTgxMzY3NDI3OV19
+eyJoaXN0b3J5IjpbLTE5NTA0NjA3MjgsMTgxMzY3NDI3OV19
 -->
