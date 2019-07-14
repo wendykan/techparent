@@ -20,11 +20,11 @@ Mentally and emotionally it was quite a bit of struggle. I was torn between a ne
 
 A close friend of mine shared her journey with me. She said she had to hand over her big project that she worked very hard on. She even gave birth early because the project was demanding. When she came back to work, the project had already launched, and the coworker who inherited the project got great praise, and she was left with not-so-good projects and had to prove herself again. She eventually left the team after about 6 months, into a completely different team of the same company, and is quite happy about the change. 
 
-I do have to mention that both she and I didn’t and couldn’t blame our coworkers who took the credit from our projects, though. They did inherit the work, and they did have to put in extra time to cover for us and to continue on the project. 
+I do have to mention that both she and I didn’t and couldn’t blame our coworkers who took the credit from our projects, though. They did inherit the work, and they did have to carry extra workload to cover for us and to continue on the project. So they deserve that credit. But it’s also valid for the original person who unvoluntarily had to leave the work to feel left out. 
 
 In hindsight, it feels like the pregnancy/childbirth gave us an excuse/opportunity to reset and restart our careers. We are still in the process of this, so 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzMTIxODU3LC0yMDQzNDQ5NDgzLDE4MT
-M2NzQyNzldfQ==
+eyJoaXN0b3J5IjpbMjA1Nzk3MTk4MCwtMjA0MzQ0OTQ4MywxOD
+EzNjc0Mjc5XX0=
 -->
