@@ -20,11 +20,11 @@ Mentally and emotionally it was quite a bit of struggle. I was torn between a ne
 
 A close friend of mine shared her journey with me. She said she had to hand over her big project that she worked very hard on. She even gave birth early because the project was demanding. When she came back to work, the project had already launched, and the coworker who inherited the project got great praise, and she was left with not-so-good projects and had to prove herself again. She eventually left the team after about 6 months, into a completely different team of the same company, and is quite happy about the change. 
 
-I do have to mention that both she and I didn’t and couldn’t blame our coworkers who took the credit from our projects, though. They did inherit the work, and they did have to carry extra workload to cover for us and to continue on the project. So they deserve that credit. But it’s also valid for the original person who unvoluntarily had to leave the work to feel left out, and to feel insecure/worried that our performance review would get impacted, therefore stalling our progress in our career, whether it’s getting promotion or other things we’ve been working on. 
+I do have to mention that both she and I didn’t and couldn’t blame our coworkers who took the credit from our projects, though. They did inherit the work, and they did have to carry extra workload to cover for us and to continue on the project. So they deserve that credit. But it’s also valid for the original person who uinvoluntarily had to leave the work to feel left out, and to feel insecure/worried that our performance review would get impacted, therefore stalling our progress in our career, whether it’s getting promotion or other things we’ve been working on. 
 
 I’m glad that things eventually worked out. 
 
 In hindsight, it feels like the pregnancy/childbirth gave us an excuse/opportunity to reset and restart our careers. It’s a bit of a heavy topic and I don’t love to post this, but your maternity leave does impact your career in some way. I hope 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY4ODQxMzhdfQ==
+eyJoaXN0b3J5IjpbMjEwNzIzNzM0NSwtMTg3Njg4NDEzOF19
 -->
