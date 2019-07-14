@@ -1,6 +1,6 @@
 # How to not quit your job after maternity leave
 
-> Disclaimer: I am extremely fortunate to have a well paying job, very helpful social circle, and super supportive employer to explore and find what I like to do in my career. I wanted to note down my journey to let others prepare for this transition in case things don’t line up as lucky as this. 
+> Disclaimer: I am extremely fortunate to have a well paying job, very helpful social circle of mom friends, and super supportive employer to empower me to explore what I like to do in my career. I wanted to note down my journey to let others prepare for this transition in case things don’t line up like this. 
 
 Lately, I have transitioned into a different role at work (within the same company) and couldn’t be happier! I feel so refreshed every day and so productive at work. In my previous role, even though I really loved the job, I had been with the same job for 4+ years and felt that I had plateaued and was seriously burned out. 
 
@@ -12,14 +12,14 @@ I’ve been giving this advice to my friends who are either expecting or trying 
 
 When I came back to my job after 3 months of leave, I felt very welcomed and was quickly given new tasks to work on. Being the more senior member of the team, the team was happy to have me back and start contributing and carrying heavy workload again. At the same time, they were still very considerate when I had to spend much of my time in the mother’s room pumping, or taking calls from the mother’s room, or work from home. For any first time mother, it was a very welcoming environment to get back to “normal”.
 
-Except that I didn’t want to get back to “normal”. I felt like the team mates were covering for me when I was on leave, and I felt like I had to hand-over projects that I put in so much time on and have someone else enjoy the credit. They made some changes to processes in my absence, which I could quickly learn and be up to speed again, but.... honestly I just didn’t want to. I was tired. 
+Except that I didn’t want to get back to “normal”. I felt like the teammates were covering for me when I was on leave, and I felt like I had to hand-over projects that I put in so much time on and have someone else enjoy the credit. They made some changes to processes in my absence, which I could quickly learn and be up to speed again, but.... honestly I just didn’t want to. I was tired. 
 
-Again, here I got very lucky to have established seniority in my team. I started to have some ideas for new, innovative projects, and after much discussion with the management chain, got support to run them. It eventually worked out well for me. During this process, I spent a lot of time talking with folks from other parts of the company, and eventually scoped out a role that I was excited about, and transitioned to that role recently. This was not a short process - it took almost 9 months for things to settle and it was not easy for me. 
+Again, here I got very lucky to have established seniority at my job. I started to have some ideas for new, innovative projects, and after much discussion with the management chain, got support to run them. It eventually worked out well for me. During this process, I spent a lot of time talking with folks from other parts of the company, and eventually scoped out a role that I was excited about, and transitioned to that role recently. This was not a short process - it took almost 9 months for things to settle and it was not easy for me. 
 
 Mentally and emotionally it was quite a bit of struggle. I was torn between a newborn at home, spending a lot of time on producing breastmilk (this is like a part time job), a job that I loved but seemingly couldn’t stand anymore, and feeling undervalued and having to prove my worth from ground up. I talked to a few friends, and they all felt for me. They responded that a lot of women experience this and a lot of them quit their jobs, or switch careers, or switch teams, after they come back from maternity leave. **How come we didn’t know this before? I guess they never talked about it?**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjkyMzcxLC0yMDQzNDQ5NDgzLDE4MT
-M2NzQyNzldfQ==
+eyJoaXN0b3J5IjpbLTIxNDU5OTcyOTUsLTIwNDM0NDk0ODMsMT
+gxMzY3NDI3OV19
 -->
