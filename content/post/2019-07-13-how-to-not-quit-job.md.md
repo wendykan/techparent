@@ -1,6 +1,6 @@
 # How to not quit your job after maternity leave
 
-
+> Disclaimer: I am extremely fortunate to have a well paying job, very helpful social circle, and super supportive employer to explore and find what I like to do in my career. I wanted to note down my journey to let others prepare for 
 
 Lately, I have transitioned into a different role at work (within the same company) and couldn’t be happier! I feel so refreshed every day and so productive. In my previous role, even though I really loved the job, I had been with the same job for 4+ years and felt that I had plateaued and wasn’t growing very much. 
 
@@ -16,6 +16,6 @@ When I came back to my job after 3 months of leave, I felt very welcomed and was
 
 Except that I didn’t want to get back to “normal”. I felt like the team mates were covering for me when I was gone, and they made some changes to processes in my absence. I could quickly learn them and be up to speed again, but I was already kind of tired of the same tasks. So ultimately, I started to propose new projects, the new technologies that I had some time to read about during my maternity leave, and eventually got the support to run those new ideas as my new projects. It eventually worked out well for me. But I had to go through quite a bit of mental and emotional struggles to realize that with a baby at home, my time has to be very optimized at work, and working on something that doesn’t interest me anymore is really not worth it. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDkxNzcxMiwtMjA0MzQ0OTQ4MywxOD
-EzNjc0Mjc5XX0=
+eyJoaXN0b3J5IjpbLTIxMTc1Njk3MjAsLTIwNDM0NDk0ODMsMT
+gxMzY3NDI3OV19
 -->
