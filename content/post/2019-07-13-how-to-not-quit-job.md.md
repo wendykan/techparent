@@ -18,9 +18,11 @@ Good thing I had already established seniority at my job. I started to have some
 
 Mentally and emotionally it was quite a bit of struggle. I was torn between a newborn at home, spending a lot of time on producing breastmilk (this is like a part time job), a job that I loved but seemingly couldn’t stand anymore, and feeling undervalued and having to prove my worth from ground up. I talked to a few friends, and they all felt for me. They responded that a lot of women experience this and a lot of them quit their jobs, or switch careers, or switch teams, after they come back from maternity leave. **How come we didn’t know this before? I guess they never talked about it?**
 
-A close friend of mine shared her journey with me. She said she had to hand over her big project that she worked very hard on. She even gave birth early because the project was demanding. When she came back to work, the project had already launched, and the coworker who inhereted the project got great praise, and she was left with not-so-good projects and had to prove herself 
+A close friend of mine shared her journey with me. She said she had to hand over her big project that she worked very hard on. She even gave birth early because the project was demanding. When she came back to work, the project had already launched, and the coworker who inhereted the project got great praise, and she was left with not-so-good projects and had to prove herself again. She eventually left the team after about 6 months, into a completely different team of the same company, and is quite happy about the change. 
+
+In hindsight, it feels like the pregnancy/childbirth gave us an excuse/opportunity to reset and restart our careers. We are still in the process of this, so 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzk5NTksLTIwNDM0NDk0ODMsMTgxMz
-Y3NDI3OV19
+eyJoaXN0b3J5IjpbMjk5OTU2NDQ4LC0yMDQzNDQ5NDgzLDE4MT
+M2NzQyNzldfQ==
 -->
