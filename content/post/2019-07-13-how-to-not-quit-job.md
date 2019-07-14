@@ -34,7 +34,7 @@ Mentally and emotionally it was quite a bit of struggle. I was torn between a ne
 ### It's more common than you think - people quitting their jobs after having kid(s)
 A close friend of mine shared her journey with me. She said she had to hand over her big project that she worked very hard on. She even gave birth early because the project was demanding. When she came back to work, the project had already launched, and the coworker who inherited the project got great praise, and she was left with not-so-good projects and had to prove herself again. She eventually left the team after about 6 months, into a completely different team of the same company, and is quite happy about the change. 
 
-I need to mention that both she and I didn’t and couldn’t blame our coworkers who took the credit from our projects while we were on leave. They did inherit the projects, and they did have to carry extra workload to cover for us and to pus on the project. So they deserve that credit. But it’s also valid for the original person who involuntarily had to leave the work to feel left out, and to feel insecure/worried that our performance review would get impacted, therefore stalling our progress in our career, whether it’s getting promotion or other things we’ve been working on. 
+I need to mention that both she and I didn’t and couldn’t blame our coworkers who took the credit from our projects while we were on leave. They did inherit the projects, and they did have to carry extra workload to cover for us and to push the projects forward. So they deserve that credit. But it’s also valid for the original person who involuntarily had to leave the work to feel left out, and to feel insecure/worried that our performance review would get impacted, therefore stalling our progression in our careers, whether it’s getting promoted or other progressions we've been working on. 
 
 I’m glad that things eventually worked out for us.  
 
@@ -42,5 +42,5 @@ In hindsight, it feels like the pregnancy/childbirth gave us an excuse/opportuni
 
 If you're reading this, I hope yours will be a happy transition for your career as well, whatever you ended up doing! 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODQ2OTk0OF19
+eyJoaXN0b3J5IjpbLTIwNzQ0MzM5MDhdfQ==
 -->
