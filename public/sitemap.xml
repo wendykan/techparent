@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wendyhackermom.com/post/2019-01-02-sleep-training/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wendyhackermom.com/post/2019-02-19-traveling-with-baby/</loc>
     <lastmod>2019-02-19T22:00:12-08:00</lastmod>
   </url>
@@ -95,6 +100,12 @@
   </url>
   
   <url>
+    <loc>https://wendyhackermom.com/tags/parenting/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wendyhackermom.com/tags/paternity-leave/</loc>
     <lastmod>2018-09-29T01:06:13-07:00</lastmod>
     <priority>0</priority>
@@ -102,13 +113,19 @@
   
   <url>
     <loc>https://wendyhackermom.com/post/</loc>
-    <lastmod>2019-02-19T22:00:12-08:00</lastmod>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wendyhackermom.com/tags/productivity/</loc>
     <lastmod>2018-09-29T01:06:13-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wendyhackermom.com/tags/sleep-training/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -132,7 +149,7 @@
   
   <url>
     <loc>https://wendyhackermom.com/</loc>
-    <lastmod>2019-02-19T22:00:12-08:00</lastmod>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
