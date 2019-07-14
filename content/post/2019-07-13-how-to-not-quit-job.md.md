@@ -24,8 +24,8 @@ I do have to mention that both she and I didn’t and couldn’t blame our cowor
 
 I’m glad that things eventually worked out. 
 
-In hindsight, it feels like the pregnancy/childbirth gave us an excuse/opportunity to reset and restart our careers. It’s a bit a
+In hindsight, it feels like the pregnancy/childbirth gave us an excuse/opportunity to reset and restart our careers. It’s a bit of a heavy topic and I don’t love to post this, but your maternity leave does impact your career in some way. I hope 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzQ2MjcsLTIwNDM0NDk0ODMsMTgxMz
-Y3NDI3OV19
+eyJoaXN0b3J5IjpbLTE4NzY4ODQxMzgsLTIwNDM0NDk0ODMsMT
+gxMzY3NDI3OV19
 -->
