@@ -8,6 +8,8 @@ draft: true
 
 > Disclaimer: I am extremely fortunate to have a well paying job, very helpful social circle of mom friends, and super supportive employer to empower me to explore what I like to do in my career. I wanted to note down my journey to let others prepare for this transition in case things don’t line up like this. 
 
+## My own transition
+
 Lately, I have transitioned into a different role at work (within the same company) and couldn’t be happier! I feel so refreshed every day and so productive at work. In my previous role, even though I really loved the job, I had been with the same job for 4+ years and felt that I had plateaued and was seriously burned out. 
 
 I feel that this transition could have happened earlier, but the entire pregnancy/childbirth last year factored into the decision and motivation to change jobs/roles, which in retrospect was unnecessary. I really wish I had worked on switching jobs/roles earlier to prevent myself from being unhappy post-child. 
@@ -31,3 +33,6 @@ I do have to mention that both she and I didn’t and couldn’t blame our cowor
 I’m glad that things eventually worked out. 
 
 In hindsight, it feels like the pregnancy/childbirth gave us an excuse/opportunity to reset and restart our careers. It’s a bit of a heavy topic and I don’t love to post this, but your maternity leave does impact your career in some way. I hope 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk3NjQ5MjQ3NV19
+-->
