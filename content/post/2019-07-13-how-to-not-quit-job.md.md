@@ -16,8 +16,10 @@ Except that I didn’t want to get back to “normal”. I felt like the team ma
 
 Again, here I got very lucky to have established seniority in my team. I started to have some ideas for new, innovative projects, and after much discussion with the management chain, got support to run them. It eventually worked out well for me. During this process, I spent a lot of time talking with folks from other parts of the company, and eventually scoped out a role that I was excited about, and transitioned to that role recently. This was not a short process - it took almost 9 months for things to settle and it was not easy for me. 
 
-Mentally and emotionally it was quite a bit of struggle. I was torn between a newborn at home, spending a lot of time on producing breastmilk (this is like a part time job), a job that I loved but couldn’t stand anymore, and feeling undervalued and having to prove my worth from ground up. I talked to a few friends, and they all responded that a lot of women experience this and a lot of them quit their jobs, or switch careers, or switch teams, after they come back from maternity leave. 
+Mentally and emotionally it was quite a bit of struggle. I was torn between a newborn at home, spending a lot of time on producing breastmilk (this is like a part time job), a job that I loved but seemingly couldn’t stand anymore, and feeling undervalued and having to prove my worth from ground up. I talked to a few friends, and they all felt for me. They responded that a lot of women experience this and a lot of them quit their jobs, or switch careers, or switch teams, after they come back from maternity leave. **How come we didn’t know this before? I guess they never talked about it?**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzU1MjU3NSwtMjA0MzQ0OTQ4MywxOD
-EzNjc0Mjc5XX0=
+eyJoaXN0b3J5IjpbLTc5NjkyMzcxLC0yMDQzNDQ5NDgzLDE4MT
+M2NzQyNzldfQ==
 -->
