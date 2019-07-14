@@ -14,8 +14,10 @@ When I came back to my job after 3 months of leave, I felt very welcomed and was
 
 Except that I didn’t want to get back to “normal”. I felt like the team mates were covering for me when I was on leave, and I felt like I had to hand-over projects that I put in so much time on and have someone else enjoy the credit. They made some changes to processes in my absence, which I could quickly learn and be up to speed again, but.... honestly I just didn’t want to. I was tired. 
 
-Again, here I got very lucky to have established seniority in my team. I started to have some ideas for new, innovative projects, and after much discussion with the management chain, I proposed these new projects eventually got the support to run those new ideas as my new projects. It eventually worked out well for me. But I had to go through quite a bit of mental and emotional struggles to realize that with a baby at home, my time has to be very optimized at work, and working on something that doesn’t interest me anymore is really not worth it. 
+Again, here I got very lucky to have established seniority in my team. I started to have some ideas for new, innovative projects, and after much discussion with the management chain, got support to run them. It eventually worked out well for me. 
+
+Mentally and emotionally it was quite a bit of struggle for me during this time. I was torn between a newborn at home, a job that I loved but couldn’t stand anymore, and feeling undervalued and having to prove my worth from ground up. I talked to a f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzIyMjY1ODAsLTIwNDM0NDk0ODMsMT
-gxMzY3NDI3OV19
+eyJoaXN0b3J5IjpbLTU2NDU4MTg0NywtMjA0MzQ0OTQ4MywxOD
+EzNjc0Mjc5XX0=
 -->
