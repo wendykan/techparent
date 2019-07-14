@@ -12,8 +12,11 @@ I’ve been giving this advice to my friends who are either expecting or trying 
 
 When I came back to my job after 3 months of leave, I felt very welcomed and was quickly given new tasks to work on. Being the more senior member of the team, the team was happy to have me back and start contributing and carrying heavy workload again. At the same time, they were still very considerate when I had to spend much of my time in the mother’s room pumping, or taking calls from the mother’s room, or work from home. For any first time mother, it was a very welcoming environment to get back to “normal”.
 
-Except that I didn’t want to get back to “normal”. I felt like the team mates were covering for me when I was on leave, and I felt like I had to hand-over  made some changes to processes in my absence. I could quickly learn them and be up to speed again, but I was already kind of tired of the same tasks. So ultimately, I started to propose new projects, the new technologies that I had some time to read about during my maternity leave, and eventually got the support to run those new ideas as my new projects. It eventually worked out well for me. But I had to go through quite a bit of mental and emotional struggles to realize that with a baby at home, my time has to be very optimized at work, and working on something that doesn’t interest me anymore is really not worth it. 
+Except that I didn’t want to get back to “normal”. I felt like the team mates were covering for me when I was on leave, and I felt like I had to hand-over projects that I put in so much time on and have someone else enjoy the credit. They made some changes to processes in my absence, which I could quickly learn and be up to speed again, but.... honestly I just didn’t want to. I was tired. 
+
+Again, here I got very lucky to have established 
+So ultimately, I started to propose new projects, the new technologies that I had some time to read about during my maternity leave, and eventually got the support to run those new ideas as my new projects. It eventually worked out well for me. But I had to go through quite a bit of mental and emotional struggles to realize that with a baby at home, my time has to be very optimized at work, and working on something that doesn’t interest me anymore is really not worth it. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg4ODI3MTgsLTIwNDM0NDk0ODMsMT
+eyJoaXN0b3J5IjpbLTE5MjY0MDU5MjAsLTIwNDM0NDk0ODMsMT
 gxMzY3NDI3OV19
 -->
