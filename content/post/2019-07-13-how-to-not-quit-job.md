@@ -3,6 +3,7 @@ title: "How to not quit your job after maternity leave"
 date: 2019-07-13T21:33:23-07:00
 subtitle: ""
 tags: [working mom]
+draft: true
 ---
 
 > Disclaimer: I am extremely fortunate to have a well paying job, very helpful social circle of mom friends, and super supportive employer to empower me to explore what I like to do in my career. I wanted to note down my journey to let others prepare for this transition in case things don’t line up like this. 
