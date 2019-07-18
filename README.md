@@ -5,7 +5,7 @@
 
 
 
-
+## To run and deploy from local:
 commands for hugo
 
 To run locally
@@ -16,8 +16,7 @@ To deploy to Firebase
 > hugo && firebase deploy
 
 
-
-To set up CI on Travis
+## To set up CI on Travis
 following this guide: https://medium.com/@bartwijnants/continuous-deployment-to-firebase-hosting-using-travis-ci-e7d9c798ead4
 
 > firebase login:ci
