@@ -1,3 +1,6 @@
+https://travis-ci.com/wendykan/techparent.svg?token=vJ7kyxFoYH3y9JiG75HP&branch=master
+
+
 commands for hugo
 
 To run locally
