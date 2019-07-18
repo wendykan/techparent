@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.com/wendykan/techparent.svg?token=vJ7kyxFoYH3y9JiG75HP&branch=master)](https://travis-ci.org/klugjo/hexo-autolinker)
+[![Build Status](https://travis-ci.com/wendykan/techparent.svg?token=vJ7kyxFoYH3y9JiG75HP&branch=master)](https://travis-ci.com/wendykan/techparent))
 
 
 
