@@ -5,6 +5,9 @@
 
 
 
+## make new posts
+> hugo new content/post/2019-12-26-childcare.md
+
 ## To run and deploy from local:
 commands for hugo
 
