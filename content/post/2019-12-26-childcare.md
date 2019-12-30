@@ -2,7 +2,7 @@
 title: "Childcare is an ongoing battle"
 date: 2019-12-26T20:49:01-08:00
 subtitle: ""
-tags: [Childcare]
+tags: [Childcare, working mom]
 ---
 
 ### Some status update
