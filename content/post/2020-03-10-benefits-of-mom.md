@@ -28,7 +28,7 @@ That's when I realized, wow, even me, a lazy mom, get this "mom points" from my 
 
 I do hope I can still provide this comfort when he's older, like in college and got dumped by someone. I hope I still get "mom points" from him and can give him a hug to make him feel better. 
 
-### 3. Everyone *thinks* you're a hardworking mom, juggling between family and work. 
+### 3. Everyone _thinks_ you're a hardworking mom, juggling between family and work, whether it's true or not. 
 Just like the world usually blames the mom when the child is noisy or ill-behaved, they usually praise the mom when the child is good. I get a lot of "wow he's so good, great job, mom!" while I really didn't do anything. 
 
 People also assume that I do more childcare, while working. So they give me a lot of praise. At the same time, I also always make sure they give the same credit to my husband who covers more childcare than I do, cooks pretty much all the dinners (I do dishes), taking care of our son while I'm on week long business trips, etc. I do some stuff, but I don't deserve *all* the credit. 
