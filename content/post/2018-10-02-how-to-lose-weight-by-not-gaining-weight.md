@@ -66,4 +66,4 @@ When I came home from the hospital, two days after giving birth, I looked 5 mont
 
 Miraculously, with the combination of the low weight gain, the natural walking that my husband insisted that I do, and my mom's family's Chinese traditional medicine, I lost almost all my pregnancy weight in 3 weeks. The rest (about 3-5 pounds) were gone by 2 months mark. I was SO HAPPY the first time I was able to fit into my pre-pregnancy jeans. 
 
-Honestly, I am SO GLAD I'm not pregnant anymore. And I'm very thankful that I'm able to recover to the level that I'm comfortable with and feeling like myself again. It's really a great feeling. 
+Honestly, I am *SO GLAD* I'm not pregnant anymore. And I'm very thankful that I'm able to recover to the level that I'm comfortable with and feeling like myself again. It's really a great feeling. 
