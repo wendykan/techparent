@@ -22,8 +22,11 @@ To deploy to Firebase
 ## To set up CI on Travis
 following this guide: https://medium.com/@bartwijnants/continuous-deployment-to-firebase-hosting-using-travis-ci-e7d9c798ead4
 
-> firebase login:ci
-
+First get a firebase cli token
+``` 
+firebase login:ci
+```
+Then encrypt this token into travis 
 ``` 
 docker run -it --rm ruby:latest bash
 gem install travis
