@@ -27,6 +27,7 @@ First get a firebase cli token
 firebase login:ci
 ```
 Then encrypt this token into travis 
+(as the poster of the blog, I had trouble installing Ruby locally for some reason so I used docker for it)
 ``` 
 docker run -it --rm ruby:latest bash
 gem install travis
@@ -34,6 +35,7 @@ travis encrypt "1/firebase_CI_token" -r githubusername/reponame
 ```
 
 then add that encrypted token to `.travis.yml`
+(it's ok to put it in github since it's encrypted)
 
 ```
 language: node_js
