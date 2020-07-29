@@ -39,7 +39,9 @@ It's amazing to go to all these places with a child. He gets so excited, repeate
 
 We also go hiking, go biking (we have a child seat attached to our e-MTBs), and go to the beaches. Overall, we're really loving our outdoors life and feel extremely spoiled living in an area where it's usually only a short drive away to these amazing outdoor spots. We don't have to travel far and don't have to stay overnight. All we need to do is to wear masks when there are others around, and we only buy food and picnic in parks or on our hikes when there's plenty of distance. 
 
-<a href="https://lh3.googleusercontent.com/gZghEGPLf25uQPXziEEmeztZtyEKFhyeTLmaU6owEDvKagMx5WdEMdPkdC9BkVrt7dMO4GjWyAuFg7DZnZT0lK94HhKs0kJ0RiIenYKD2ClRMsljLfNadiMWNJSeyu6Dzj3aobWQjf4=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/gZghEGPLf25uQPXziEEmeztZtyEKFhyeTLmaU6owEDvKagMx5WdEMdPkdC9BkVrt7dMO4GjWyAuFg7DZnZT0lK94HhKs0kJ0RiIenYKD2ClRMsljLfNadiMWNJSeyu6Dzj3aobWQjf4=w600-h315-p-k" /> </a>
+
+<a href="https://lh3.googleusercontent.com/RKywo3jyBBbSPQYP9tkOl4PBp8mJk5uMFl8YLx15fRyCPzyAJbCB8jc4nKTRTnSoEonMpmj9x3I5DnJfPuPgeUZrLTR-RfTRTCBpjTEPXbEbetCN19-psQbDrby5zzTDtTn8x-qlsOE=w2400"> <img src="https://lh3.googleusercontent.com/RKywo3jyBBbSPQYP9tkOl4PBp8mJk5uMFl8YLx15fRyCPzyAJbCB8jc4nKTRTnSoEonMpmj9x3I5DnJfPuPgeUZrLTR-RfTRTCBpjTEPXbEbetCN19-psQbDrby5zzTDtTn8x-qlsOE=w2400" /> </a>
+
 
 ## Mental State
 
