@@ -18,7 +18,7 @@ I've always been very active - I was a basketball player in both high school and
 
 When I became pregnant in late 2017, I started to develop nausea rather quickly. Pretty much within a week of getting the (very faint) second line, I started feeling sick. It was quite strong and it actually started to affect my work. I work as a data scientist who is customer-facing, which means I had a lot of meetings where I have to be on the phone, being relatively sharp, and being able to think/talk quickly and manage to sound smart. That was really hard to do while morning sickness is basically all-day sickness. I had to tell my team pretty early about my pregnancy, and let them know that I couldn't take any morning customer calls. It was a pretty dark period of my life at work since I've always worked really hard and enjoy the intensity of a tech startup. (We were acquired by then, but still functioned like a startup.) I was constantly gagging, occasionally vomitting, and super exhausted. I would lay on the sofa after the work day and wouldn't be able to get up for hours. 
 
-Unfortunately, even though my nausea was strong, I did not lose any weight. Instead I gained a little bit of weight. It was a mystery for me, since I really didn't eat that much during that period of time. I hated most foods just from the smell of them. The only things I could tolerate were crackers, and white noodles with wasabi. 
+Unfortunately, even though my nausea was strong, I did not loset any weight. Instead I gained a little bit of weight. It was a mystery for me, since I really didn't eat that much during that period of time. I hated most foods just from the smell of them. The only things I could tolerate were crackers, and white noodles with wasabi. 
 
 What was worse is that after I felt a little better after 16 weeks mark, I was happy to eat normally, and my weight started to go up rather quickly :( I guess it was because I didn't have the energy to exercise anymore. So with eating "normal", I was still not burning any calories, and that put some extra weights on me. The only good thing was: the baby was growing well, he had a normal weight, generally around 35 or 40 percentile. 
 
@@ -67,3 +67,6 @@ When I came home from the hospital, two days after giving birth, I looked 5 mont
 Miraculously, with the combination of the low weight gain, the natural walking that my husband insisted that I do, and my mom's family's Chinese traditional medicine, I lost almost all my pregnancy weight in 3 weeks. The rest (about 3-5 pounds) were gone by 2 months mark. I was SO HAPPY the first time I was able to fit into my pre-pregnancy jeans. 
 
 Honestly, I am *SO GLAD* I'm not pregnant anymore. And I'm very thankful that I'm able to recover to the level that I'm comfortable with and feeling like myself again. It's really a great feeling. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc0MzYwOTczMl19
+-->
