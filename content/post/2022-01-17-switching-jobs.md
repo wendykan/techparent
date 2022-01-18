@@ -19,7 +19,7 @@ Why, you ask? I'll try to be brief as this wasn't the main focus of my post.
 My first switch was mostly because I wasn't learning and growing in the direction I wanted to be in. I was comfortable with the team, loved the people, and generally built a team/environment where I was steadily making progress on. But I felt like I wasn't focusing on doing ML production work which I really wanted to do. So I switched to a different part of the company where I could learn more hands on technical things on very large systems (which I did). 
 
 ### The second switch
-This switch was mainly due to my own struggling with not feeling aligned with leadership/team, having a favorite manager leave the group, and overall anxiety/impostor syndrome due to those reasons. I became increasinly unhappy and started interviewing at places, but eventually joined the previous manager's new group. 
+This switch was mainly due to my own struggling with not feeling aligned with leadership/team, having a favorite manager leave the group, and overall anxiety/impostor syndrome due to those reasons. I became increasinly unhappy and started interviewing at places, and I eventually joined the previous manager's new group. 
 
 
 ## How to switch jobs (as a mom)
@@ -33,9 +33,9 @@ After about 2 months into the process, I started to notice myself going into the
 
 ### 2. Use your time efficiently
 
-As a mom of a toddler, my days aren't very long. My husband is extremely supportive and takes on a lot of housework and childcare, but still, there is a lot of time I need to devote to my family, while still holding a full time job that makes me anxious all the time, so I don't really have the luxury of time. 
+As a mom of a toddler, my days aren't very long. My husband is extremely supportive and takes on a lot of housework and childcare, but still, there is a lot of time I need to devote to my family, while still holding a full time job that makes me anxious all the time, and job search and study for interviews. So I don't really have the luxury of time. 
 
-I try to be as efficient as possible with my time. For example, I did spend some time on Leetcode but I do that over lunch, thinking about a problem, coming up with some rough solutions, then directly looking at the answers (Yes I paid for the subscription to save time). I only code about 2 problems and the rest are all done in my head. 
+I try to be as efficient as possible with my time. For example, I did spend some time on Leetcode but I do that over lunch, thinking about a problem, coming up with some rough solutions, then directly looking at the answers (Yes I paid for the subscription to save time). I only code about 2 problems and the rest are all done in my head or notepads.
 
 For ML systems design I paid for a course called Grokking the Machine Learning Interview (you can use my referral [link](https://educative.io/signup?referralCode=wendykan-7nOR7n1AgOG)), which is something I rarely do. But I needed to have organized knowledge in a short timeline, so the course was a good way to help me get organized knowledge fast. It actually even gave me some fresh ideas with my normal job, so that was a worthwhile investment. 
 
