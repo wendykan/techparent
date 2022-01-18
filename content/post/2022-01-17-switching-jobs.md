@@ -33,7 +33,7 @@ After about 2 months into the process, I started to notice myself going into the
 
 ### 2. Use your time efficiently
 
-As a mom of a toddler, my days aren't very long. My husband is extremely supportive and takes on a lot of housework and childcare, but still, there is a lot of time I need to devote to my family.
+As a mom of a toddler, my days aren't very long. My husband is extremely supportive and takes on a lot of housework and childcare, but still, there is a lot of time I need to devote to my family, while still holding a full time job that makes me anxious all the time, so I don't really have the luxury of time. 
 
 I try to be as efficient as possible with my time. For example, I did spend some time on Leetcode but I do that over lunch, thinking about a problem, coming up with some rough solutions, then directly looking at the answers (Yes I paid for the subscription to save time). I only code about 2 problems and the rest are all done in my head. 
 
@@ -47,15 +47,16 @@ Similar to the previous point, I was interested in saving time for myself. Using
 
 I learned from my friend Phil that all you have to do is to ask them what they do, and genuinely say "that sounds very interesting!", and if they don't pick that up, add something like "I'd be interested in doing that!". And that's it! Pretty simple. 
 
-I've found my past experience very useful - my network of people generally know that I'm easy to work with, and am knowledgeable and experienced. I also found my "mom" experience helpful, to my surprise, that parents in the pandemic have a lot of empathy for each other, so when others who are also parents hear that I'm on the market, they offer to help. 
+I've also found my past work experience very useful - my network of people generally know that I'm easy to work with, and am knowledgeable and experienced. To my surprise, I also found my "being a mom" status helpful, perhaps parents in the pandemic have a lot of empathy for each other, so when others who are also parents hear that I'm on the market, they offer to help. 
 
 ### 4. Be thankful, thorough, and keep people updated
 
-In these processes I used a lot of people to mentor me and to help me. I always try to keep them updated on how I'm doing - people love to hear updates when they've invested in time to help you! I also try to thank them (just verbally is fine, doesn't have to be gifts) and let them know how I could help them in the future if needed. 
+In these processes I used a lot of people to mentor me and to help me. I always try to keep them updated on how I'm doing - people love to hear updates when they've invested in time to help you! I also try to thank them (just verbally is fine, doesn't have to be gifts) and let them know how I am willing help them in the future if needed. I believe general friendiness and goodwill is the key to maintain good relationships, and I'm almost never doing these things expecting anything in return anyway. 
 
 
 
 
 
-That's about it for today! Overall, I think this job switch was handled well. 
-Next time I will share about how to onboard quickly to a new job! 
+That's about it for today! Overall, I think this job switch was handled well. I just started the new job but feel pretty safe and comfortable, even though new role and projects give me a good challenge. 
+
+Next time I will share about how to onboard quickly to a new job - hopefully this won't be another year :) 
