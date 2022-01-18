@@ -54,6 +54,7 @@ I've also found my past work experience very useful - my network of people gener
 In these processes I used a lot of people to mentor me and to help me. I always try to keep them updated on how I'm doing - people love to hear updates when they've invested in time to help you! I also try to thank them (just verbally is fine, doesn't have to be gifts) and let them know how I am willing help them in the future if needed. I believe general friendiness and goodwill is the key to maintain good relationships, and I'm almost never doing these things expecting anything in return anyway. 
 
 
+***
 
 
 
