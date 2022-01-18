@@ -16,7 +16,7 @@ The bad thing is, the year was very intense - I learned a lot but also struggled
 Why, you ask? I'll try to be brief as this wasn't the main focus of my post. 
 
 ### The first switch
-My first switch was mostly because I wasn't learning and growing in the direction I wanted to be in. I was comfortable with the team, loved the people, and generally built a team/environment where I was steadily making progress on. But I felt like I wasn't focusing on doing machine learning production work which I really wanted to do. So I switched to a different part of the company and I learned a lot of hands on technical details. 
+My first switch was mostly because I wasn't learning and growing in the direction I wanted to be in. I was comfortable with the team, loved the people, and generally built a team/environment where I was steadily making progress on. But I felt like I wasn't focusing on doing ML production work which I really wanted to do. So I switched to a different part of the company where I could learn more hands on technical things on very large systems (which I did). 
 
 ### The second switch
 This switch was mainly due to my own struggling with not feeling aligned with leadership/team, having a favorite manager leave the group, and overall anxiety/impostor syndrome due to those reasons. I became increasinly unhappy and started interviewing at places, but eventually joined the previous manager's new group. 
