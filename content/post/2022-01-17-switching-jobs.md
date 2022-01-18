@@ -8,7 +8,7 @@ draft: false
 
 Wow, I can't believe it's been over a year since I wrote a blog post. 
 
-It's been a very eventful year last year (2021) - in both good and bad ways. Good thing is in the beginning of the year, I left my previous job after 6 years, switched to a different group with my company (a global giant, where different groups can feel like different companies), then I switched again at end of year. 
+It's been a very eventful year last year (2021) - in both good and bad ways. Good thing is in the beginning of the year, I left my previous job after 6 years, switched to a different group with company (where different groups can feel like different companies), then I switched again at end of year. 
 The bad thing is, the year was very intense - I learned a lot but also struggled a lot mentally with work.
 
 ## Why I switched
@@ -25,13 +25,13 @@ This switch was mainly due to my own struggling with not feeling aligned with le
 ## How to switch jobs (as a mom)
 
 
-###  Start talking and interviewing before you have to leave
+###  1. Start talking and interviewing before you have to leave
 
 This is really important as interviewing takes a toll on your overall wellbeing. I am really glad I made a decision to start signaling to my network about my being available to switch jobs. At that time, my mental health wasn't so bad, and I was still happy and confident, and that helped with being calm and not jumping to the first opportunity that came to be, but to take my time to see what's out there, what kind of role I can get this time around with my experience, what I need to work on to be more competitive in the market, etc. 
 
 After about 2 months into the process, I started to notice myself going into the mode of "having to leave", then my decisions became more haste, and was glad I already had some offers/opportunities in hand to decide whether to move forward or not. 
 
-### Use your time efficiently
+### 2. Use your time efficiently
 
 As a mom of a toddler, my days aren't very long. My husband is extremely supportive and takes on a lot of housework and childcare, but still, there is a lot of time I need to devote to my family.
 
@@ -41,7 +41,7 @@ For ML systems design I paid for a course called Grokking the Machine Learning I
 
 Generally, I am a big supporter of "courses should be free". But this time around, I realized I'm willing to pay some money to save me time on digging around, and I liked the results. 
 
-### Use your network as much as possible
+### 3. Use your network as much as possible
 
 Similar to the previous point, I was interested in saving time for myself. Using my network has helped me tremendously by not having to submit any resumes to any website, but I also got insider knowledge of each company. I understand this is speaking from the privilege of having worked in the field for 5+ years (10+ years of experience total), but I still had to put in some time and effort to think about who to talk to, how to approach them. Sometimes I only do "check in" instead of having a clear goal to achieve, sometimes I only ask for advice regarding my career; but almost all the people that would be willing to help me picked up the signal and started to offer help. 
 
@@ -49,7 +49,7 @@ I learned from my friend Phil that all you have to do is to ask them what they d
 
 I've found my past experience very useful - my network of people generally know that I'm easy to work with, and am knowledgeable and experienced. I also found my "mom" experience helpful, to my surprise, that parents in the pandemic have a lot of empathy for each other, so when others who are also parents hear that I'm on the market, they offer to help. 
 
-### Be thankful, thorough, and keep people updated
+### 4. Be thankful, thorough, and keep people updated
 
 In these processes I used a lot of people to mentor me and to help me. I always try to keep them updated on how I'm doing - people love to hear updates when they've invested in time to help you! I also try to thank them (just verbally is fine, doesn't have to be gifts) and let them know how I could help them in the future if needed. 
 
@@ -57,4 +57,5 @@ In these processes I used a lot of people to mentor me and to help me. I always 
 
 
 
-That's about it for today. Next time I will share about how to onboard quickly to a new job! 
+That's about it for today! Overall, I think this job switch was handled well. 
+Next time I will share about how to onboard quickly to a new job! 
