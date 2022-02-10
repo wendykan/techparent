@@ -12,7 +12,7 @@ I don't know if I'm really qualified to teach people how to raise bilingual kids
 
 ### Our setup
 
-I'm a native Mandarin speaker (grew up in Taiwan, stayed there throughout collage, came to the US for grad school), and my husband is a native-ish English speaker (grew up in New York, with both parents non-native speakers, but they spoke English at home, so he didn't learned accented English at home). His parents are Hungarian and Colombian, so there are our 3rd and 4th languages to add to the mix. 
+I'm a native Mandarin speaker (grew up in Taiwan, stayed there throughout collage, came to the US for grad school), and my husband is a native-ish English speaker (grew up in New York, with both parents non-native speakers, but they spoke English at home, so he learned accented English at home). His parents are Hungarian and Colombian, so there are our 3rd and 4th languages to add to the mix. 
 
 When my son was born, we decided on a few things:
 
