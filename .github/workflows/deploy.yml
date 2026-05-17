@@ -2,7 +2,7 @@ name: Deploy Hugo to Firebase
 on:
   push:
     branches:
-      - master  # 或是你的主分支名稱
+      - master  # 如果您的主分支是 master，請改為 master
 
 jobs:
   build_deploy:
@@ -11,13 +11,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: true  # 如果你有用 Hugo Theme submodule
+          submodules: true  # 確保拉取舊主題 submodule
           fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.110.0' # 鎖定舊版本以相容 5 年前的主題
           extended: true
 
       - name: Build
@@ -28,5 +28,5 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
-          projectId: techparent-98fe5 # 請替換成你的專案 ID
+          projectId: techparent-98fe5 # 請替換成您的專案 ID
           channelId: live
