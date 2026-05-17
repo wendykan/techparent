@@ -2,7 +2,7 @@ name: Deploy Hugo to Firebase
 on:
   push:
     branches:
-      - main  # 或是你的主分支名稱
+      - master  # 或是你的主分支名稱
 
 jobs:
   build_deploy:
