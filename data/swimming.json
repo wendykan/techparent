@@ -1,0 +1,23 @@
+{
+  "athlete": "Remy",
+  "ribbon_count": 12,
+  "ribbon_goal": 1000,
+  "races": [
+    {
+      "date": "2026-05-16",
+      "meet": "Strawberry Seals Spring Splash",
+      "event": "25 Yard Freestyle",
+      "time": "24.12",
+      "improvement": "-1.50",
+      "video_url": ""
+    },
+    {
+      "date": "2026-05-16",
+      "meet": "Strawberry Seals Spring Splash",
+      "event": "25 Yard Backstroke",
+      "time": "28.45",
+      "improvement": "-0.80",
+      "video_url": ""
+    }
+  ]
+}
