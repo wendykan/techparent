@@ -1,0 +1,35 @@
+name: Weekly Swim Data Sync
+on:
+  schedule:
+    - cron: '0 10 * * 2'
+  workflow_dispatch:
+
+jobs:
+  update_times:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests beautifulsoup4 google-generativeai
+
+      - name: Run Gemini Scraper
+        env:
+          SWIM_USERNAME: ${{ secrets.SWIM_USERNAME }}
+          SWIM_PASSWORD: ${{ secrets.SWIM_PASSWORD }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/sync_times.py
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/swimming.json
+          git commit -m "Automated Tuesday swim data update via Gemini" || exit 0
+          git push
