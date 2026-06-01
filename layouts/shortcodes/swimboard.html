@@ -1,0 +1,31 @@
+{{ $data := .Site.Data.swimming }}
+{{ $progress := mul (div (float $data.ribbon_count) $data.ribbon_goal) 100 }}
+
+<div style="background: #f4f4f9; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2 style="margin-top: 0;">🎀 The Quest for 1,000 Ribbons</h2>
+  <div style="background: #ddd; border-radius: 20px; width: 100%; height: 30px; overflow: hidden;">
+    <div style="background: #4caf50; width: {{ $progress }}%; height: 100%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">
+      {{ $data.ribbon_count }} / {{ $data.ribbon_goal }}
+    </div>
+  </div>
+</div>
+
+<h3>⏱️ Official Race Log</h3>
+<table style="width: 100%; border-collapse: collapse; text-align: left;">
+  <tr style="border-bottom: 2px solid #333;">
+    <th>Date</th>
+    <th>Event</th>
+    <th>Time</th>
+    <th>PR Delta</th>
+  </tr>
+  {{ range $data.races }}
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 8px 0;">{{ .date }}</td>
+    <td><strong>{{ .event }}</strong><br><small>{{ .meet }}</small></td>
+    <td style="font-family: monospace; font-size: 1.1em;">{{ .time }}s</td>
+    <td style="color: {{ if substr .improvement 0 1 | eq "-" }}green{{ else }}red{{ end }};">
+      {{ .improvement }}s
+    </td>
+  </tr>
+  {{ end }}
+</table>
