@@ -16,6 +16,8 @@
     <th>Date</th>
     <th>Event</th>
     <th>Time</th>
+    <th>Heat</th>
+    <th>Overall</th>
     <th>PR Delta</th>
   </tr>
   {{ range $data.races }}
@@ -23,6 +25,8 @@
     <td style="padding: 8px 0;">{{ .date }}</td>
     <td><strong>{{ .event }}</strong><br><small>{{ .meet }}</small></td>
     <td style="font-family: monospace; font-size: 1.1em;">{{ .time }}s</td>
+    <td>#{{ .heat_place }}</td>
+    <td><strong>#{{ .overall_place }}</strong></td>
     <td style="color: {{ if substr .improvement 0 1 | eq "-" }}green{{ else }}red{{ end }};">
       {{ .improvement }}s
     </td>
