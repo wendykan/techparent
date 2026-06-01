@@ -1,13 +1,12 @@
 import os
 import json
 import requests
-import base64
 from bs4 import BeautifulSoup
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 # Configuration
 RESULTS_PAGE_URL = "https://www.gomotionapp.com/team/recmrssca/page/2026-springmsl/2026-msl-meet-schedule"
-genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
 def get_all_pdf_urls():
     print(f"Searching for meet results at {RESULTS_PAGE_URL}...")
@@ -17,16 +16,15 @@ def get_all_pdf_urls():
     pdf_urls = []
     for link in soup.find_all('a', href=True):
         href = link['href']
-        if href.lower().endswith('.pdf'):
+        # 額外過濾：我們只要包含 "results" 的 PDF，避開 heatsheet 或 handmarking
+        if href.lower().endswith('.pdf') and "results" in href.lower():
             if not href.startswith('http'):
                 href = f"https://www.gomotionapp.com{href}"
             if href not in pdf_urls:
                 pdf_urls.append(href)
     return pdf_urls
 
-def extract_with_gemini(pdf_content):
-    model = genai.GenerativeModel('gemini-1.5-flash')
-    
+def extract_with_gemini(client, pdf_content):
     prompt = """
     You are a data extraction assistant analyzing swimming meet results.
     Extract all race results (both individual and relay) for the athlete "Remy Benko" or "Benko, Remy".
@@ -40,18 +38,31 @@ def extract_with_gemini(pdf_content):
     - "improvement": Calculate time difference from his seed time to final time. Format as "-1.23" or "+0.50". If no seed time, output "0.00".
     - "video_url": Leave as an empty string "".
 
-    Return ONLY a raw JSON list of these objects. Do not include markdown formatting like ```json.
+    Return ONLY a raw JSON list of these objects.
     """
     
-    response = model.generate_content([
-        {'mime_type': 'application/pdf', 'data': base64.b64encode(pdf_content).decode('utf-8')},
-        prompt
-    ], generation_config={"response_mime_type": "application/json"})
+    # 2026 全新 SDK：完美支援直接傳入 bytes
+    response = client.models.generate_content(
+        model='gemini-2.5-flash',
+        contents=[
+            types.Part.from_bytes(
+                data=pdf_content,
+                mime_type='application/pdf',
+            ),
+            prompt
+        ],
+        config=types.GenerateContentConfig(
+            response_mime_type="application/json"
+        )
+    )
     
     return json.loads(response.text)
 
 def update_dashboard(all_new_races):
-    if not all_new_races: return
+    if not all_new_races: 
+        print("No races found to update.")
+        return
+    
     data_path = 'data/swimming.json'
     
     if os.path.exists(data_path):
@@ -74,11 +85,14 @@ def update_dashboard(all_new_races):
         data['races'] = sorted(data['races'], key=lambda x: x['date'], reverse=True)
         with open(data_path, 'w') as f:
             json.dump(data, f, indent=2)
-        print(f"Added {added_count} new races via Gemini.")
+        print(f"Added {added_count} new races via Gemini 2.5.")
     else:
         print("Dashboard is already up to date.")
 
 if __name__ == "__main__":
+    # 初始化 2026 全新 Client，會自動抓環境變數中的 GEMINI_API_KEY
+    client = genai.Client()
+    
     pdf_urls = get_all_pdf_urls()
     all_extracted_races = []
     
@@ -87,7 +101,7 @@ if __name__ == "__main__":
         pdf_response = requests.get(pdf_url, headers={'User-Agent': 'Mozilla/5.0'})
         
         try:
-            races = extract_with_gemini(pdf_response.content)
+            races = extract_with_gemini(client, pdf_response.content)
             all_extracted_races.extend(races)
         except Exception as e:
             print(f"Error parsing {pdf_url} with Gemini: {e}")
