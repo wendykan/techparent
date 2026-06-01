@@ -14,10 +14,10 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.11' # 升級 Python 版本
 
       - name: Install Dependencies
-        run: pip install requests beautifulsoup4 google-generativeai
+        run: pip install requests beautifulsoup4 google-genai
 
       - name: Run Gemini Scraper
         env:
