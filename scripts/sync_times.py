@@ -1,24 +1,19 @@
 import os
-import io
 import json
 import requests
-import pdfplumber
+import base64
 from bs4 import BeautifulSoup
-from datetime import datetime
+import google.generativeai as genai
 
+# Configuration
 RESULTS_PAGE_URL = "https://www.gomotionapp.com/team/recmrssca/page/2026-springmsl/2026-msl-meet-schedule"
-ATHLETE_NAME_1 = "Benko, Remy"
-ATHLETE_NAME_2 = "Remy Benko"
+genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
-def login_and_get_session():
-    session = requests.Session()
-    session.headers.update({'User-Agent': 'Mozilla/5.0'})
-    return session
-
-def get_all_pdf_urls(session):
+def get_all_pdf_urls():
     print(f"Searching for meet results at {RESULTS_PAGE_URL}...")
-    response = session.get(RESULTS_PAGE_URL)
+    response = requests.get(RESULTS_PAGE_URL, headers={'User-Agent': 'Mozilla/5.0'})
     soup = BeautifulSoup(response.text, 'html.parser')
+    
     pdf_urls = []
     for link in soup.find_all('a', href=True):
         href = link['href']
@@ -29,80 +24,31 @@ def get_all_pdf_urls(session):
                 pdf_urls.append(href)
     return pdf_urls
 
-def time_to_seconds(time_str):
-    time_str = time_str.replace(':', '.')
-    parts = time_str.split('.')
-    if len(parts) == 3: 
-        return int(parts[0]) * 60 + int(parts[1]) + float(f"0.{parts[2]}")
-    elif len(parts) == 2: 
-        return int(parts[0]) + float(f"0.{parts[1]}")
-    return 9999.99
-
-def parse_swim_pdf(session, pdf_url):
-    print(f"Parsing {pdf_url}...")
-    response = session.get(pdf_url)
+def extract_with_gemini(pdf_content):
+    model = genai.GenerativeModel('gemini-1.5-flash')
     
-    new_races = []
-    event_times = {} 
-    current_event = "Unknown Event"
-    current_date = datetime.now().strftime("%Y-%m-%d")
+    prompt = """
+    You are a data extraction assistant analyzing swimming meet results.
+    Extract all race results (both individual and relay) for the athlete "Remy Benko" or "Benko, Remy".
+    For each race he participated in, output a JSON object with these exact keys:
+    - "date": YYYY-MM-DD format (infer from the PDF header).
+    - "meet": Name of the meet (infer from the header).
+    - "event": Full event name (e.g., "Event #7 Boys 8&UN 25Y Free").
+    - "time": Final time recorded.
+    - "heat_place": His place in his specific heat (the first number on his line, or "-" for relays).
+    - "overall_place": Calculate his overall place by comparing his time to ALL other valid times in that specific event across all heats.
+    - "improvement": Calculate time difference from his seed time to final time. Format as "-1.23" or "+0.50". If no seed time, output "0.00".
+    - "video_url": Leave as an empty string "".
 
-    with pdfplumber.open(io.BytesIO(response.content)) as pdf:
-        for page in pdf.pages:
-            text = page.extract_text()
-            if not text: continue
-                
-            lines = text.split('\n')
-            for line in lines:
-                # 1. 解析比賽日期
-                if "2026" in line and "/" in line:
-                    for p in line.split():
-                        if p.count('/') == 2:
-                            try:
-                                current_date = datetime.strptime(p, "%m/%d/%Y").strftime("%Y-%m-%d")
-                            except ValueError: pass
-
-                # 2. 追蹤目前項目（同時支援個人賽 Boys 與接力賽 MIXED）
-                if "Event" in line and ("Boys" in line or "MIXED" in line):
-                    current_event = line.strip()
-                    if current_event not in event_times:
-                        event_times[current_event] = []
-                
-                # 3. 蒐集該項目所有有效的成績紀錄（用於計算總排名）
-                tokens = line.split()
-                if tokens:
-                    final_time = tokens[-1]
-                    if '.' in final_time and not final_time.isalpha():
-                        event_times[current_event].append(time_to_seconds(final_time))
-                
-                # 4. 精準捕捉 Remy 的個人或接力賽成績
-                if ATHLETE_NAME_1 in line or ATHLETE_NAME_2 in line:
-                    final_time = tokens[-1]
-                    
-                    # 判斷是個人賽（行首通常為名次數字）還是接力賽
-                    heat_place = tokens[0] if tokens[0].isdigit() else "-"
-                    
-                    if '.' in final_time:
-                        new_races.append({
-                            "date": current_date,
-                            "meet": "Weekly Meet",
-                            "event": current_event,
-                            "time": final_time,
-                            "time_sec": time_to_seconds(final_time),
-                            "heat_place": heat_place,
-                            "overall_place": "TBD", 
-                            "improvement": "0.00", 
-                            "video_url": ""
-                        })
-
-    # 5. 計算總排名 (Overall Place)
-    for race in new_races:
-        all_times = sorted(event_times.get(race["event"], []))
-        if race["time_sec"] in all_times:
-            race["overall_place"] = str(all_times.index(race["time_sec"]) + 1)
-        del race["time_sec"]
-
-    return new_races
+    Return ONLY a raw JSON list of these objects. Do not include markdown formatting like ```json.
+    """
+    
+    response = model.generate_content([
+        {'mime_type': 'application/pdf', 'data': base64.b64encode(pdf_content).decode('utf-8')},
+        prompt
+    ], generation_config={"response_mime_type": "application/json"})
+    
+    return json.loads(response.text)
 
 def update_dashboard(all_new_races):
     if not all_new_races: return
@@ -128,14 +74,22 @@ def update_dashboard(all_new_races):
         data['races'] = sorted(data['races'], key=lambda x: x['date'], reverse=True)
         with open(data_path, 'w') as f:
             json.dump(data, f, indent=2)
-        print(f"Added {added_count} new races (including relays!).")
+        print(f"Added {added_count} new races via Gemini.")
+    else:
+        print("Dashboard is already up to date.")
 
 if __name__ == "__main__":
-    session = login_and_get_session()
-    pdf_urls = get_all_pdf_urls(session)
-    
+    pdf_urls = get_all_pdf_urls()
     all_extracted_races = []
+    
     for pdf_url in pdf_urls:
-        all_extracted_races.extend(parse_swim_pdf(session, pdf_url))
+        print(f"Downloading and processing {pdf_url}...")
+        pdf_response = requests.get(pdf_url, headers={'User-Agent': 'Mozilla/5.0'})
         
+        try:
+            races = extract_with_gemini(pdf_response.content)
+            all_extracted_races.extend(races)
+        except Exception as e:
+            print(f"Error parsing {pdf_url} with Gemini: {e}")
+            
     update_dashboard(all_extracted_races)
