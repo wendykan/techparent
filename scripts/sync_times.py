@@ -6,12 +6,11 @@ import pdfplumber
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-# The main page where the team posts the weekly result PDFs
-RESULTS_PAGE_URL = "https://www.gomotionapp.com/team/recmrssca/page/events/meet-results" # UPDATE THIS
+# Updated to the exact 2026 schedule page
+RESULTS_PAGE_URL = "https://www.gomotionapp.com/team/recmrssca/page/2026-springmsl/2026-msl-meet-schedule"
 ATHLETE_NAME = "Benko, Remy"
 
 def login_and_get_session():
-    # If the results page is public, you can skip logging in and just return requests.Session()
     session = requests.Session()
     session.headers.update({'User-Agent': 'Mozilla/5.0'})
     
@@ -20,28 +19,27 @@ def login_and_get_session():
     
     if username and password:
         print("Logging in...")
-        # TODO: Add specific login POST request if the PDFs are behind a password
-        # session.post("LOGIN_URL", data={"user": username, "pass": password})
+        # Add specific login POST request here if needed
         
     return session
 
-def get_latest_pdf_url(session):
-    print("Searching for the latest meet results...")
+def get_all_pdf_urls(session):
+    print(f"Searching for meet results at {RESULTS_PAGE_URL}...")
     response = session.get(RESULTS_PAGE_URL)
     soup = BeautifulSoup(response.text, 'html.parser')
     
-    # Find the first link that ends with .pdf (assuming the newest is at the top)
+    pdf_urls = []
+    # Find all links on the page that end with .pdf
     for link in soup.find_all('a', href=True):
         href = link['href']
         if href.lower().endswith('.pdf'):
-            # Handle relative URLs natively
             if not href.startswith('http'):
                 href = f"https://www.gomotionapp.com{href}"
-            print(f"Found latest PDF: {href}")
-            return href
+            if href not in pdf_urls:
+                pdf_urls.append(href)
+                print(f"Found PDF: {href}")
             
-    print("No PDF links found on the results page.")
-    return None
+    return pdf_urls
 
 def parse_swim_pdf(session, pdf_url):
     print(f"Downloading and parsing {pdf_url}...")
@@ -49,7 +47,7 @@ def parse_swim_pdf(session, pdf_url):
     
     new_races = []
     current_event = "Unknown Event"
-    current_date = datetime.now().strftime("%Y-%m-%d") # Fallback date
+    current_date = datetime.now().strftime("%Y-%m-%d")
 
     with pdfplumber.open(io.BytesIO(response.content)) as pdf:
         for page in pdf.pages:
@@ -59,12 +57,10 @@ def parse_swim_pdf(session, pdf_url):
                 
             lines = text.split('\n')
             for line in lines:
-                # Attempt to extract the meet date from the header (e.g., "05/16/2026")
                 if "2026" in line and "/" in line:
                     parts = line.split()
                     for p in parts:
                         if p.count('/') == 2:
-                            # Format mm/dd/yyyy to yyyy-mm-dd
                             try:
                                 dt = datetime.strptime(p, "%m/%d/%Y")
                                 current_date = dt.strftime("%Y-%m-%d")
@@ -80,44 +76,39 @@ def parse_swim_pdf(session, pdf_url):
                     
                     new_races.append({
                         "date": current_date,
-                        "meet": "Weekly Meet", # Could also parse the meet name from the header
+                        "meet": "Weekly Meet",
                         "event": current_event,
                         "time": final_time,
-                        "improvement": "0.00", # Delta logic can be added later
+                        "improvement": "0.00", 
                         "video_url": ""
                     })
-                    print(f"Parsed: {current_event} -> {final_time}s")
 
     return new_races
 
-def update_dashboard(new_races):
-    if not new_races:
+def update_dashboard(all_new_races):
+    if not all_new_races:
         print("No races to update.")
         return
 
     data_path = 'data/swimming.json'
     
-    # Load existing data
     if os.path.exists(data_path):
         with open(data_path, 'r') as f:
             data = json.load(f)
     else:
-        # Fallback if file doesn't exist
         data = {"athlete": "Remy", "ribbon_count": 0, "ribbon_goal": 1000, "races": []}
 
-    # Prevent duplicates by checking date and event
     existing_keys = {f"{r['date']}-{r['event']}" for r in data['races']}
     added_count = 0
 
-    for race in new_races:
+    for race in all_new_races:
         key = f"{race['date']}-{race['event']}"
         if key not in existing_keys:
             data['races'].append(race)
-            data['ribbon_count'] += 1  # Add a ribbon for the new race!
+            data['ribbon_count'] += 1  
             added_count += 1
 
     if added_count > 0:
-        # Sort races chronologically
         data['races'] = sorted(data['races'], key=lambda x: x['date'], reverse=True)
         
         with open(data_path, 'w') as f:
@@ -128,8 +119,11 @@ def update_dashboard(new_races):
 
 if __name__ == "__main__":
     session = login_and_get_session()
-    latest_pdf = get_latest_pdf_url(session)
+    pdf_urls = get_all_pdf_urls(session)
     
-    if latest_pdf:
-        extracted_races = parse_swim_pdf(session, latest_pdf)
-        update_dashboard(extracted_races)
+    all_extracted_races = []
+    for pdf_url in pdf_urls:
+        extracted_races = parse_swim_pdf(session, pdf_url)
+        all_extracted_races.extend(extracted_races)
+        
+    update_dashboard(all_extracted_races)
