@@ -1,6 +1,6 @@
 {
   "athlete": "Remy",
-  "ribbon_count": 18,
+  "ribbon_count": 21,
   "ribbon_goal": 1000,
   "races": [
     {
@@ -61,6 +61,36 @@
       "heat_place": "1",
       "overall_place": "6",
       "improvement": "-1.75",
+      "video_url": ""
+    },
+    {
+      "date": "2026-05-02",
+      "meet": "Strawberry Seals @ Terra Linda Orcas",
+      "event": "Boys 8&UN 25Y Freestyle",
+      "time": "25.63",
+      "heat_place": "8",
+      "overall_place": "28",
+      "improvement": "-1.74",
+      "video_url": ""
+    },
+    {
+      "date": "2026-05-02",
+      "meet": "Strawberry Seals @ Terra Linda Orcas",
+      "event": "Boys 8&UN 25Y Backstroke",
+      "time": "31.43",
+      "heat_place": "3",
+      "overall_place": "15",
+      "improvement": "0.00",
+      "video_url": ""
+    },
+    {
+      "date": "2026-04-25",
+      "meet": "2026 Strawberry Seals Practice Meet",
+      "event": "Boys 8&UN 25Y Freestyle",
+      "time": "27.377",
+      "heat_place": "4",
+      "overall_place": "19",
+      "improvement": "-8.11",
       "video_url": ""
     }
   ]

@@ -17,7 +17,7 @@ jobs:
           python-version: '3.11' # 升級 Python 版本
 
       - name: Install Dependencies
-        run: pip install requests beautifulsoup4 google-genai
+        run: pip install requests beautifulsoup4 google-genai pypdf
 
       - name: Run Gemini Scraper
         env:
